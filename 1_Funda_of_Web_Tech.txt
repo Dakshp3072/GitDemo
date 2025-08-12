@@ -1,0 +1,97 @@
+MEAN Stack 
+    >> M: MongoDB (DataBase)
+    >> E: ExpressJS (Backend)
+    >> A: Angular (Frontend)
+    >> N: NodeJS (Backend)
+
+
+Three Pillars
+    >> HTML (Hyper Text MarkUp Language) 
+    >> CSS (Casading Style Sheets)
+    >> JS (Java Script)
+
+Other Stacks
+    >> MEAN, MERN, Java Full Stack 
+
+Web Dev
+    >> Building/Developers Team 
+    >> Testing Team (Manual Testers/Automated Testers)
+    >> Hosting Team (DevOps Team) 
+    >> Maintenance Team/Support Team 
+ 
+SDLC (Software Development Life Cycle): 
+    >> WaterFall Model
+    >> Agile Model 
+    >> Spiral Model
+    >> Iterative Model 
+    >> Incremental Model 
+    >> V Shaped Model 
+    >> RAD (Rapid Application Development) Model
+
+URl (Uniform Resource Locator)
+    https://www.instagram.com/ 
+    https://education.rohanAcademy.edu/FullStack
+
+
+    https: Protcol 
+    rohanAcademy: Server/Domain Name
+    education: Sub-Domain
+    .edu: TLD (Top Level Domain)
+    FullStack: Path/Loaction
+
+
+Protcol:
+    >> Set of rules/instructions
+        http  : Hyper Text Transfar Protcol
+        https : Hyper Text Transfar Protcol Secure
+        tcp   : Transmission Control Protcol
+        udp   : User Datagram Protcol
+        smtp  : Simple Mail Transfar Protcol
+        ftp   : File Transfar Protcol
+        ip    : Internet Protcol (ipV4 & ipV6) 
+
+
+            >> Client/Web Page ------------(uName & uPwd)----------> Instagram Server
+            >> SSL (Secure Socket layer) Certification 
+
+
+
+Server/Domain Name:
+    >> Unique Identifier
+        >> Eg: Google, Amzon
+
+
+Sub-Domain Name:
+    >> gMeet
+    >> gMaps
+    >> gDrive
+    >> gMail
+    >> gPhotos
+    >> gFiles
+    >> gChrome
+    >> gCalendar
+    >> gPay
+
+    >>Amzon Shopping
+    >> AWS
+
+
+TLD (Top Level Domain)
+    >> Amzon.in (India)
+    >> Amzon.com (Commercial)
+    >> Amzon.edu (Education)
+    >> Amzon.org (organsisation)
+    >> Amzon.uk (United Kingdoms)
+
+
+
+Ofline Editors
+    >> Notpaid
+    >> Notpaid++
+    >> Subline
+    >> Open Brackets
+    >> VS Code
+
+Online Editors
+    >> CodeSpace
+    >> CodeSandBox
